@@ -1,0 +1,8 @@
+{
+"name":"muc",
+"type":"ftp",
+"data": {
+	"url":"http://sss"
+	}
+
+}
